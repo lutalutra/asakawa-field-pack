@@ -1,0 +1,50 @@
+[
+  {
+    "id": "river-edge",
+    "name": "River Edge",
+    "description": "The narrow meeting point between flowing water and vegetation.",
+    "species": ["kingfisher", "grey-wagtail"],
+    "lat": 35.651,
+    "lng": 139.332
+  },
+  {
+    "id": "riffle",
+    "name": "Riffle",
+    "description": "Shallow, fast-moving water over stones. Good for wagtails and aquatic insects.",
+    "species": ["grey-wagtail"],
+    "lat": 35.653,
+    "lng": 139.334
+  },
+  {
+    "id": "gravel-bar",
+    "name": "Gravel Bar",
+    "description": "Open stones and sand exposed by the river. Warm, dry, and insect-rich.",
+    "species": ["dragonfly"],
+    "lat": 35.650,
+    "lng": 139.330
+  },
+  {
+    "id": "shaded-bank",
+    "name": "Shaded Bank",
+    "description": "Overhanging branches above slow water. A good perch for kingfishers.",
+    "species": ["kingfisher"],
+    "lat": 35.652,
+    "lng": 139.331
+  },
+  {
+    "id": "backwater",
+    "name": "Backwater",
+    "description": "Slow, sheltered water behind the main current. A small refuge for insects and amphibians.",
+    "species": ["dragonfly"],
+    "lat": 35.649,
+    "lng": 139.329
+  },
+  {
+    "id": "woodland-edge",
+    "name": "Woodland Edge",
+    "description": "A transition between paths, trees, and the river corridor.",
+    "species": ["raccoon-dog"],
+    "lat": 35.654,
+    "lng": 139.329
+  }
+]

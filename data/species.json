@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kingfisher",
+    "name": "Kingfisher",
+    "name_ja": "カワセミ",
+    "latin": "Alcedo atthis",
+    "group": "Bird",
+    "image": "assets/images/kingfisher.svg",
+    "audio": "assets/audio/kingfisher.mp3",
+    "description": "A flash of brilliant blue and orange skimming low over the water, the kingfisher is one of the most striking birds found along rivers and streams. It hunts by watching from a perch before diving with remarkable precision to catch small fish and aquatic insects. Although often elusive, its sharp call and rapid flight can reveal its presence long before it is seen.",
+    "short_description": "A flash of blue and orange along the river. Often heard before it is seen.",
+    "habitat": "River",
+    "season": "All year",
+    "often_seen": "Morning",
+    "landscapes": ["river-edge", "shaded-bank"]
+  },
+  {
+    "id": "grey-wagtail",
+    "name": "Grey Wagtail",
+    "name_ja": "キセキレイ",
+    "latin": "Motacilla cinerea",
+    "group": "Bird",
+    "image": "assets/images/placeholder-grey.svg",
+    "audio": "",
+    "description": "A small bird often seen walking quickly along shallow water and stones, flicking its long tail as it searches for insects.",
+    "short_description": "A small riverside bird moving quickly along stones and shallow water.",
+    "habitat": "Riffle",
+    "season": "All year",
+    "often_seen": "Morning",
+    "landscapes": ["riffle", "river-edge"]
+  },
+  {
+    "id": "dragonfly",
+    "name": "Dragonflies",
+    "name_ja": "トンボ類",
+    "latin": "Odonata",
+    "group": "Insects",
+    "image": "assets/images/placeholder-grey.svg",
+    "audio": "",
+    "description": "Dragonflies patrol sunny edges of still water, reed beds, and gravel bars through the warmer months.",
+    "short_description": "Patrolling low over still water, reeds, and sunny gravel bars.",
+    "habitat": "Gravel Bar",
+    "season": "Spring to autumn",
+    "often_seen": "Midday",
+    "landscapes": ["gravel-bar", "backwater"]
+  },
+  {
+    "id": "raccoon-dog",
+    "name": "Raccoon Dog",
+    "name_ja": "タヌキ",
+    "latin": "Nyctereutes viverrinus",
+    "group": "Mammal",
+    "image": "assets/images/placeholder-grey.svg",
+    "audio": "",
+    "description": "A shy mammal using river corridors, woodland edges, and quiet paths, usually active around dusk or night.",
+    "short_description": "A shy mammal using river corridors and woodland edges.",
+    "habitat": "Woodland Edge",
+    "season": "All year",
+    "often_seen": "Dusk",
+    "landscapes": ["woodland-edge"]
+  }
+]
